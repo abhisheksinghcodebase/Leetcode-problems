@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
