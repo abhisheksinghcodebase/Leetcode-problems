@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
