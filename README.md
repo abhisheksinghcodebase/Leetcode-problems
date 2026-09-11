@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
@@ -43,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0283-move-zeroes) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
