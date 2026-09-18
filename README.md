@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0912-sort-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0912-sort-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
