@@ -100,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3524-find-x-value-of-array-i](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3524-find-x-value-of-array-i) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
