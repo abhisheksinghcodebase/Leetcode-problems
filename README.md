@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3524-find-x-value-of-array-i) |
 ## String
 |  |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
