@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0912-sort-an-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0066-plus-one) |
 | [3524-find-x-value-of-array-i](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3871-count-commas-in-range-ii) |
