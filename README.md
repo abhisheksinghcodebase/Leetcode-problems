@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0697-degree-of-an-array](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0697-degree-of-an-array](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
