@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0066-plus-one) |
+| [0415-add-strings](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0504-base-7) |
 | [3524-find-x-value-of-array-i](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3870-count-commas-in-range) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0504-base-7) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0415-add-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
