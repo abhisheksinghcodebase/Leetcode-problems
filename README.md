@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0697-degree-of-an-array](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0697-degree-of-an-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0697-degree-of-an-array](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
