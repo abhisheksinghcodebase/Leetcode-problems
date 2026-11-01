@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Breadth-First Search
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0066-plus-one) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0504-base-7) |
 | [3524-find-x-value-of-array-i](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/3524-find-x-value-of-array-i) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0504-base-7) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhisheksinghcodebase/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
